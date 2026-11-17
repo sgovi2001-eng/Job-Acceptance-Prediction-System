@@ -8,7 +8,7 @@ The Job Acceptance Prediction System is a Machine Learning-based application tha
    2. Assist recruiters in making data-driven hiring decisions.
    3. Reduce hiring time and recruitment costs.
 
-****Technologies Used********
+****Technologies Used*****
 
    1. Python
    2. Pandas
